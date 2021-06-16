@@ -1,2 +1,9 @@
-192.168.122.232
-192.168.122.191
+[web_servers]
+server1
+centos
+
+[db_servers]
+server2
+
+[file_servers]
+server3
